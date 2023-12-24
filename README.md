@@ -20,32 +20,32 @@ Getting Started
 Follow these steps to run the medication supply chain tracking system:
 
 Clone the Repository:
-
+```bash
 git clone https://github.com/your-username/medication-supply-chain.git
 
 Navigate to the Project Directory:
-
+```bash
 cd medication-supply-chain
 
 Install Dependencies:
-
+```bash
 npm install
 Run Hardhat Node:
 
 Start a local Ethereum node using Hardhat:
-
+```bash
 npx hardhat node
 
 Deploy Smart Contracts:
 
 In a new terminal, deploy the smart contracts to the local network:
-
+```bash
 npx hardhat run --network localhost scripts/deploy.js
 
 Run the Development Server:
 
 Start the development server to run the user interface:
-
+```bash
 npm run dev
 
 Access the Application:
