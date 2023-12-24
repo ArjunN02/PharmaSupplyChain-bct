@@ -21,11 +21,11 @@ Follow these steps to run the medication supply chain tracking system:
 
 Clone the Repository:
 ```bash
-git clone https://github.com/your-username/medication-supply-chain.git
+git clone https://github.com/ArjunN02/PharmaSupplyChain-bct.git
 ```
 Navigate to the Project Directory:
 ```bash
-cd medication-supply-chain
+cd PharmaSupplyChain-bct
 ```
 Install Dependencies:
 ```bash
@@ -54,4 +54,12 @@ Access the Application:
 Open your web browser and visit http://localhost:3000 to interact with the medication supply chain tracking system.
 
 Now you have the medication supply chain tracking system up and running locally. Feel free to explore the application and test its functionality in the development environment.
+## Screenshots
+
+![Screenshot 1](screenshots/ss1.png)
+![Screenshot 2](screenshots/ss2.png)
+![Screenshot 3](screenshots/ss3.png)
+![Screenshot 4](screenshots/ss4.png)
+![Screenshot 5](screenshots/ss5.png)
+![Screenshot 6](screenshots/ss6.png)
 
